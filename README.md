@@ -1,7 +1,5 @@
-Here's a README file for the "Weather App" project from the GitHub repository [imbeginerr/weather-app](https://github.com/imbeginerr/weather-app).
 
-```markdown
-# Weather App 🌦️
+## Weather App 🌦️
 
 Welcome to the Weather App! This application provides real-time weather information for any location using the OpenWeatherMap API. It's designed to be simple and user-friendly, making it easy to stay updated on the weather conditions.
 
