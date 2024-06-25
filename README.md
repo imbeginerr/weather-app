@@ -71,10 +71,7 @@ Created by [imbeginerr](https://github.com/imbeginerr) - feel free to contact me
 
 ---
 
-Feel free to customize this README to better fit your project's needs.
-```
 
-This README file provides a concise overview of the Weather App, including its features, installation instructions, usage guidelines, technologies used, contribution instructions, license, acknowledgments, and contact information.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
